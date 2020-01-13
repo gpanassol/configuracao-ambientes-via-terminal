@@ -4,4 +4,4 @@ Esse repositorio tem por finalidade disponibilizar script usados para configura√
 
 ## Sistemas
 
-<a href="https://github.com/gpanassol/configuracao-ambientes-via-terminal/tree/master/debian-10">Debian 10</a>
+<a href="https://github.com/gpanassol/configuracao-ambientes-via-terminal/blob/master/debian-10/install-program-debian-10.sh">Debian 10</a>
