@@ -56,6 +56,8 @@ sudo apt-get install -y filezilla                           # FTP/FTPS/SFTP CLIE
 
 sudo apt-get install -y ntfs-3g
 sudo apt-get install -y curl
+sudo apt install -y snapd
+sudo apt install -y zip
 
 # 4. SOFTWARE
 
@@ -91,3 +93,7 @@ docker version
 # test
 docker run hello-world
 
+# Discord
+sudo snap install discord
+
+#
